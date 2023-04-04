@@ -54,7 +54,7 @@ export default function App() {
      
       
     
-      {name && <p>Start editing to see some magic happen :)</p>}
+      {love&& <p>i love you forver :)</p>}
   
     </div>
   );
